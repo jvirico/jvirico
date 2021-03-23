@@ -2,10 +2,5 @@
 
 ![JRico's github stats](https://github-readme-stats.vercel.app/api?username=jvirico&count_private=true&show_icons=true&theme=default)
 
-<!--
-**jvirico/jvirico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on Generative Adversarial Networks and Genetics
+- 🔭 Currently working on conditional GANs applied to Genetics.
 - 📫 How to reach me: jvirico@gmail.com
--->
