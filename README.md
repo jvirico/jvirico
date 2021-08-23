@@ -9,22 +9,23 @@
 
 # Portfolio  
 ## Computer Vision
-- [Augmented Reality prototype in Unity](https://github.com/jvirico/augmented-reality-poc-unity)
-- [Object tracking with oclussions using Kalman Filter](https://github.com/jvirico/kalman-tracker)
-- [Mouse Computed Tomography 3D reconstruction](https://github.com/jvirico/mouse_CT_3D_reconstruction)
-- [SLAM + drones + camera based fault detection](https://github.com/jvirico/slam-navigation) (company property - partially shared)
+- [Augmented Reality prototype in Unity.](https://github.com/jvirico/augmented-reality-poc-unity)
+- [Object tracking with oclussions using Kalman Filter.](https://github.com/jvirico/kalman-tracker)
+- [Object Detection and Classification for video using OpenCV and C++.](https://github.com/jvirico/object_detection_classification)
+- [Mouse Computed Tomography 3D reconstruction.](https://github.com/jvirico/mouse_CT_3D_reconstruction)
+- [SLAM + drones + camera based fault detection.](https://github.com/jvirico/slam-navigation) (company property - partially shared)
   
 ## Data Mining - Machine Learning - Statistics
-- [Scania Trucks Failure Prediction](https://github.com/jvirico/scania-truck-failure-prediction)
-- [Bayesian Inference for pose estimation](https://github.com/jvirico/bayesian-inference-linear-gaussian-model)
-- [Normality Contrast and data normalization](https://github.com/jvirico/normality-tests-pvalues-boxcoxtransformations)
+- [Scania Trucks Failure Prediction.](https://github.com/jvirico/scania-truck-failure-prediction)
+- [Bayesian Inference for pose estimation.](https://github.com/jvirico/bayesian-inference-linear-gaussian-model)
+- [Normality Contrast and data normalization.](https://github.com/jvirico/normality-tests-pvalues-boxcoxtransformations)
 - JACINTA (company property - partially shared)
 
 ## Artificial Intelligence
-- [3 Generative Adversarial Networks](https://github.com/jvirico/gans-keras)
-- chromosome-generation-gans (private)
+- [3 Generative Adversarial Networks.](https://github.com/jvirico/gans-keras)
+- chromosome-generation-gans (recent research - private)
 - [Perceptron, MLP, Radial Basis Function NN..](https://github.com/jvirico/pytorch-templates)
-- DeepDiseaseGeneration (private)
+- DeepDiseaseGeneration (current research - private)
 
 ## Sofware Engineering
 - pizza_decorator (design patterns)
@@ -38,3 +39,4 @@
 - hellboy
 - jtv-ips
 - active-learning-python
+- active-learning-pandas
