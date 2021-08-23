@@ -23,7 +23,7 @@
 
 ## Artificial Intelligence
 - [3 Generative Adversarial Networks.](https://github.com/jvirico/gans-keras)
-- chromosome-generation-gans (recent research - private)
+- [Metaphase Chromosome image generation using Deep Convolutional GAN (DCGAN).](https://github.com/jvirico/chromosome-generation-gans) (recent research - partially shared)
 - [Perceptron, MLP, Radial Basis Function NN..](https://github.com/jvirico/pytorch-templates)
 - DeepDiseaseGeneration (current research - private)
 
