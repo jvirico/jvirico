@@ -10,10 +10,11 @@
 # Portfolio  
 ## Computer Vision
 - [Augmented Reality prototype in Unity.](https://github.com/jvirico/augmented-reality-poc-unity)
-- [Object tracking with oclussions using Kalman Filter.](https://github.com/jvirico/kalman-tracker)
+- [Object tracking with occlusions using Kalman Filter.](https://github.com/jvirico/kalman-tracker)
 - [Object Detection and Classification for video using OpenCV and C++.](https://github.com/jvirico/object_detection_classification)
 - [Mouse Computed Tomography 3D reconstruction.](https://github.com/jvirico/mouse_CT_3D_reconstruction)
 - [SLAM + drones + camera based fault detection.](https://github.com/jvirico/slam-navigation) (company property - partially shared)
+- [End to end Structure from Motion, with in-depth Detectots/Descriptors analysis.](https://github.com/jvirico/calibration-detection-description-matching-reconstruciton) (Private, ask for visibility at *jvirico@gmail.com*)
   
 ## Data Mining - Machine Learning - Statistics
 - [Scania Trucks Failure Prediction.](https://github.com/jvirico/scania-truck-failure-prediction)
