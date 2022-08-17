@@ -2,7 +2,7 @@
 
 ![JRico's github stats](https://github-readme-stats.vercel.app/api?username=jvirico&count_private=true&show_icons=true&theme=default)
 
-- 🔭 Currently working on conditional GANs applied to Genetics, and camera-based 3D reconstruction.
+- 🔭 Currently working on conditional GANs applied to Genetics, and MLOps Engineering at Helsing.ai
 - 📫 How to reach me: jvirico@gmail.com  
 
 
